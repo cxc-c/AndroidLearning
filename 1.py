@@ -4,4 +4,4 @@ for i in range(10):
 	print(i)
 	print('新增提交')
 	print('新增提交')
-	print('新增冲冲冲冲突')
+	print('新突')
